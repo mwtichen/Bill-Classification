@@ -5,4 +5,4 @@ Check out the Notebook [here](https://github.com/mwtichen/Bill-Classification/bl
 
 If you are on a mobile phone, be sure to click on Desktop Version at the bottom of the screen.
 
-Check out the requirements [here]().
+Check out the requirements [here](https://github.com/mwtichen/Bill-Classification/blob/master/requirements.txt).
